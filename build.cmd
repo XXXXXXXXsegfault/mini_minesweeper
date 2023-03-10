@@ -1,0 +1,1 @@
+asm.exe minesweeper.asm minesweeper.exe
